@@ -4,6 +4,7 @@
     "namespace": "android_app",
     "package_name": "com.example.deeplink_cookbook",
     "sha256_cert_fingerprints":
-    ["6A:CD:5A:74:17:A9:DB:04:AC:95:85:FB:EB:B9:D1:BD:67:EC:F9:C7:0F:76:1E:3B:51:15:02:F9:4E:87:98:41"]
+    ["6A:CD:5A:74:17:A9:DB:04:AC:95:85:FB:EB:B9:D1:BD:67:EC:F9:C7:0F:76:1E:3B:51:15:02:F9:4E:87:98:41",
+    "6E:AC:1B:EB:93:89:35:DD:E9:5B:51:6B:5C:DE:91:1E:12:FF:64:68:5D:D1:BF:2B:D4:DB:9D:1A:5A:2E:FC:0C"]
   }
 }]
