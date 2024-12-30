@@ -1,0 +1,39 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "3JJW4SS868.com.etax.icanhan1"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      },
+      {
+        "appIDs": [
+          "U565FT9BQZ.com.etax.icanhan"
+        ],
+        "paths": [
+          "*"
+        ],
+        "components": [
+          {
+            "/": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "3JJW4SS868.com.etax.icanhan1",
+      "U565FT9BQZ.com.etax.icanhan"
+    ]
+  }
+}
