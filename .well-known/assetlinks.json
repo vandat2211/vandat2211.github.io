@@ -2,9 +2,13 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.etax.icanhan",
+    "package_name": "com.example.sso",
     "sha256_cert_fingerprints":
     ["6A:CD:5A:74:17:A9:DB:04:AC:95:85:FB:EB:B9:D1:BD:67:EC:F9:C7:0F:76:1E:3B:51:15:02:F9:4E:87:98:41",
-    "6E:AC:1B:EB:93:89:35:DD:E9:5B:51:6B:5C:DE:91:1E:12:FF:64:68:5D:D1:BF:2B:D4:DB:9D:1A:5A:2E:FC:0C"]
+"6E:AC:1B:EB:93:89:35:DD:E9:5B:51:6B:5C:DE:91:1E:12:FF:64:68:5D:D1:BF:2B:D4:DB:9D:1A:5A:2E:FC:0C",
+"6C:7E:53:9B:C8:B5:4C:6B:B2:3B:C1:F3:2E:F8:32:A9:8F:30:E9:44:66:5B:81:34:D2:3B:51:24:2F:DC:65:54",
+"DE:A6:79:97:C1:91:90:AA:18:7C:48:3A:08:12:15:F8:F9:29:05:EB:5E:59:99:00:5D:29:EE:70:3E:DA:9F:BF",
+"07:75:38:D5:D9:63:77:81:0A:BC:C7:21:20:E1:F1:6F:FD:1E:DE:C0:F0:2F:5E:6A:FE:86:EA:00:24:CB:88:EA",
+"C4:45:D4:C8:F9:E2:DE:C4:71:14:61:3D:80:EB:4F:FA:44:9F:BB:8F:2C:53:8E:3A:48:8A:FC:26:CE:F0:4B:C8"]
   }
 }]
