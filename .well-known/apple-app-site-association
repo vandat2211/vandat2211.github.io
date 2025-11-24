@@ -4,20 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "3JJW4SS868.com.etax.icanhan1"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
-      },
-      {
-        "appIDs": [
-          "U565FT9BQZ.com.etax.icanhan"
+          "2BCCZYY4V5.com.vtn.aichatting.aichatbot.funnychat"
         ],
         "paths": [
           "*"
@@ -32,8 +19,7 @@
   },
   "webcredentials": {
     "apps": [
-      "3JJW4SS868.com.etax.icanhan1",
-      "U565FT9BQZ.com.etax.icanhan"
+      "2BCCZYY4V5.com.vtn.aichatting.aichatbot.funnychat"
     ]
   }
 }
