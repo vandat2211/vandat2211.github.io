@@ -1,25 +1,10 @@
 {
   "applinks": {
-    "apps": [],
-    "details": [
-      {
-        "appIDs": [
-          "2BCCZYY4V5.com.vtn.aichatting.aichatbot.funnychat"
-        ],
-        "paths": [
-          "*"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
-        ]
-      }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "2BCCZYY4V5.com.vtn.aichatting.aichatbot.funnychat"
-    ]
+    "details": [{
+      "appIDs": ["4HHRZPSF96.com.dochuan.app"],
+      "components": [
+        { "/": "/product-listings/*" }
+      ]
+    }]
   }
 }
