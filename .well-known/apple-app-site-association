@@ -1,10 +1,22 @@
 {
   "applinks": {
-    "details": [{
-      "appIDs": ["4HHRZPSF96.com.dochuan.app"],
-      "components": [
-        { "/": "/product-listings/*" }
-      ]
-    }]
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "4HHRZPSF96.com.dochuan.app"
+        ],
+        "components": [
+          { "/": "/product-listings" },
+          { "/": "/product-listings/*" },
+          { "/": "/product-listings*" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "4HHRZPSF96.com.dochuan.app"
+    ]
   }
 }
