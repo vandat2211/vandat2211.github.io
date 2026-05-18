@@ -4,6 +4,7 @@
     "details": [
       {
         "appIDs": [
+          "H6F8L4MXGX.com.dochuan.app",
           "4HHRZPSF96.com.dochuan.app"
         ],
         "components": [
@@ -16,6 +17,7 @@
   },
   "webcredentials": {
     "apps": [
+      "H6F8L4MXGX.com.dochuan.app",
       "4HHRZPSF96.com.dochuan.app"
     ]
   }
